@@ -118,6 +118,10 @@
     }
 
     /* Formulario de contacto */
+    
+    .resumen {
+        padding: 0px 150px;
+    }
 
     .title-contacto {
         font-size: 40px;
@@ -354,9 +358,7 @@
         width: 65%;
     }
 
-    .resumen {
-        padding: 0px 150px;
-    }
+    
 
 }
 
