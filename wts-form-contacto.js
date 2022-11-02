@@ -19,7 +19,6 @@ function habilitar() {
         if (grupo == "") {
                 val++;
         }
-
         if (val == 0) {
                 document.getElementById("submit-wpp").disabled = false;
         } else {
